@@ -1,2 +1,6 @@
 Initial version, plus more text
+<<<<<<< HEAD
 add new line on branch1
+=======
+add 2nd line on GitHub
+>>>>>>> 6ad5ddc29f64799b78a687d18a13f5ff18791369
